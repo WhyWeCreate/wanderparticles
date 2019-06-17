@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: 6480904486040768779}
   - component: {fileID: 6480904486040768772}
   - component: {fileID: 6480904486040768773}
+  - component: {fileID: 5625549970791318202}
   m_Layer: 0
   m_Name: BottomStoneLedge
-  m_TagString: Untagged
+  m_TagString: shape
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -738,3 +739,16 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 14
   m_Mesh: {fileID: 0}
+--- !u!114 &5625549970791318202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6480904486040768774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ed852848e723245ba84aa2f9b0f39d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentPrefab: 
