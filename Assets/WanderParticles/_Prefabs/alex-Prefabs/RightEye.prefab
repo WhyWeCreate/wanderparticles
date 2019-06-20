@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 7435806735988725306}
   - component: {fileID: 4394456532208475176}
   - component: {fileID: 766964283944479707}
+  - component: {fileID: 7309913734844806192}
   m_Layer: 0
   m_Name: RightEye
   m_TagString: shape
@@ -575,3 +576,16 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   interactable: {fileID: 0}
+--- !u!114 &7309913734844806192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157481803544727300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ed852848e723245ba84aa2f9b0f39d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentPrefab: Assets/WanderParticles/_Prefabs/alex-Prefabs/RightEye.prefab

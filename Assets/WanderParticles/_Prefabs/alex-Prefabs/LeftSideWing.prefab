@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 5534620823077394334}
   - component: {fileID: 5534620823077394333}
   - component: {fileID: 5534620823077394332}
+  - component: {fileID: 8466579150789191345}
   m_Layer: 0
   m_Name: LeftSideWing
   m_TagString: shape
@@ -1245,3 +1246,16 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   interactable: {fileID: 0}
+--- !u!114 &8466579150789191345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5534620823077394325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ed852848e723245ba84aa2f9b0f39d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentPrefab: Assets/WanderParticles/_Prefabs/alex-Prefabs/LeftSideWing.prefab

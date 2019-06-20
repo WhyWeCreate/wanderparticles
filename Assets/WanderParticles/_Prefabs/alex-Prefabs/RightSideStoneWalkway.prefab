@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 3020143684328368981}
   - component: {fileID: 280450579647907508}
   - component: {fileID: 2080603496079362966}
+  - component: {fileID: 5345187529154503074}
   m_Layer: 0
   m_Name: RightSideStoneWalkway
   m_TagString: Untagged
@@ -484,3 +485,16 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   interactable: {fileID: 0}
+--- !u!114 &5345187529154503074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8135035078559241296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ed852848e723245ba84aa2f9b0f39d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentPrefab: Assets/WanderParticles/_Prefabs/alex-Prefabs/RightSideStoneWalkway.prefab

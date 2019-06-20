@@ -20,7 +20,7 @@ GameObject:
   - component: {fileID: 1392523464}
   - component: {fileID: 1392523465}
   - component: {fileID: 1392523467}
-  - component: {fileID: 6480904486040768775}
+  - component: {fileID: 3674004639562307755}
   m_Layer: 0
   m_Name: BottomStoneLedge
   m_TagString: shape
@@ -1117,7 +1117,7 @@ MonoBehaviour:
   handFollowTransform: 1
   highlightOnHover: 1
   hideHighlight: []
---- !u!114 &6480904486040768775
+--- !u!114 &3674004639562307755
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
